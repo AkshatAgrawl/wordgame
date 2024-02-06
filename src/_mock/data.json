@@ -1,0 +1,57 @@
+{
+    "Amazon": {
+      "Electronics": {
+        "Mobiles": {
+          "Samsung": {
+            "model1": { "parameter1": "value1", "parameter2": "value2", "price": 599.99, "qualityIndex": 4.5, "buyers": 1000 },
+            "model2": { "parameter1": "value1", "parameter2": "value2", "price": 799.99, "qualityIndex": 4.8, "buyers": 1500 }
+          },
+          "Apple": {
+            "model1": { "parameter1": "value1", "parameter2": "value2", "price": 1099.99, "qualityIndex": 4.9, "buyers": 2000 },
+            "model2": { "parameter1": "value1", "parameter2": "value2", "price": 1299.99, "qualityIndex": 5.0, "buyers": 2500 }
+          }
+          // Add more mobile brands and models as needed
+        },
+        "Laptops": {
+          "Dell": {
+            "model1": { "parameter1": "value1", "parameter2": "value2", "accessories": ["bag", "mouse"], "price": 899.99, "qualityIndex": 4.6, "buyers": 800 },
+            "model2": { "parameter1": "value1", "parameter2": "value2", "accessories": ["bag", "mouse"], "price": 1099.99, "qualityIndex": 4.8, "buyers": 1200 }
+          },
+          "HP": {
+            "model1": { "parameter1": "value1", "parameter2": "value2", "accessories": ["bag", "mouse"], "price": 799.99, "qualityIndex": 4.5, "buyers": 600 },
+            "model2": { "parameter1": "value1", "parameter2": "value2", "accessories": ["bag", "mouse"], "price": 999.99, "qualityIndex": 4.7, "buyers": 1000 }
+          }
+          // Add more laptop brands and models as needed
+        },
+        "TV": {
+          // TV parameters for different brands and models
+        }
+        // Add more electronic categories as needed
+      },
+      "Clothing": {
+        "Men": {
+          "Shirts": {
+            // Parameters for men's shirts
+            "price": 29.99, "qualityIndex": 4.2, "buyers": 5000
+          },
+          "Jeans": {
+            // Parameters for men's jeans
+            "price": 49.99, "qualityIndex": 4.5, "buyers": 3500
+          }
+          // Add more men's clothing categories as needed
+        },
+        "Women": {
+          // Parameters for women's clothing categories
+        },
+        "Children": {
+          // Parameters for children's clothing categories
+        }
+        // Add more clothing categories as needed
+      }
+      // Add more categories for other departments as needed
+    },
+    "OtherWebsite": {
+      // Structure for other website data with similar categories and information
+    }
+  }
+  
